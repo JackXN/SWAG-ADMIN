@@ -46,7 +46,7 @@
       "last 1 safari version"
     ]
   },
-  "engines": {"node": "v14.15.2",
+  "engines": {"node": "v14.18.1",
     "npm": "7.6.2"}
 }
 
