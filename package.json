@@ -1,5 +1,6 @@
 {
   "name": "lamaadmin",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -48,5 +49,6 @@
   },
   "engines": {"node": "v14.18.1",
     "npm": "7.6.2"}
+
 }
 
